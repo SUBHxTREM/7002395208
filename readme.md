@@ -4,8 +4,7 @@
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR)
 
 
-
-# 𝕠𝕧𝕖𝕣𝕠𝕒𝕕 𝕓𝕠𝕥
+# 𝕠𝕧𝕖𝕣𝕝𝕠𝕒𝕕 𝕓𝕠𝕥
 
 This is a MUSIC HACKING BOT made for telegram. I made this MUSIC HACKING BOT with help of all other MUSIC HACKING BOT available in telegram. All credits goes to its Respective Owners....
 this userbot is made by https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR . come and join our family and rock it. Join for update related info channel and group :- https://t.me/Lolgrpbc THANKS FOR VISITING OUR REPO💖
