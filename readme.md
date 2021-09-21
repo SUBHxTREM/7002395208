@@ -34,7 +34,7 @@ this userbot is made by https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR . come and join
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href=" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.
+
 </details>
 
 <details>
