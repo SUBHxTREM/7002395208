@@ -1,18 +1,20 @@
-[![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
+<!--[![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
+-->
 ![GitHub repo size](https://img.shields.io/github/repo-size/adilshiekh00/CRUSH-USEROTBOT)
 [![HitCount](http://hits.dwyl.com/SUBHxTREM/7002395208/.svg)](http://hits.dwyl.com/SUBHxTREM/7002395208)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR)
 
 
 # 𝕠𝕧𝕖𝕣𝕝𝕠𝕒𝕕 𝕓𝕠𝕥
+# AN AMAZING USERBOT THAT  CAN PLAY MUSUC IN GROUP VC....
 
 This is a MUSIC HACKING BOT made for telegram. I made this MUSIC HACKING BOT with help of all other MUSIC HACKING BOT available in telegram. All credits goes to its Respective Owners....
 this userbot is made by https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR . come and join our family and rock it. Join for update related info channel and group :- https://t.me/Lolgrpbc THANKS FOR VISITING OUR REPO💖
 [![MUSIC HACKING BOT LOGO](https://telegra.ph/file/3f2400fa5eeec4ba0a80d.jpg)](https://t.me/Lolgrpbc)
 
-
+<!--
 # The owner would not be responsible for any kind of bans due to the bot...
-
+-->
 
 <details>
 
@@ -32,8 +34,7 @@ this userbot is made by https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR . come and join
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href=" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-
+<a href=" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.
 </details>
 
 <details>
